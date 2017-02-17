@@ -1,0 +1,54 @@
+.parentbox{
+    width: 995px;
+    height: auto;
+}
+
+header{
+    width: 995px;
+    height: 70px;
+    background:green;
+}
+
+section{
+    width: 995px;
+    height: 500px;
+    background: #7cc576;
+}
+.section2{
+    background: white;
+
+}
+
+.boxnumber1{
+    float: left;
+    width: 330px;
+    height: 470px;
+    margin: 4px;
+    background: green;
+    
+}
+
+.boxnumber2{
+    float: left;
+    width: 330px;
+    height: 470px;
+    margin: 4px;
+    background: green;
+    
+}
+
+.boxnumber3{
+    float: right;
+    width: 310px;
+    height: 470px;
+    margin: 4px;
+    background: green;
+   
+}
+
+footer{
+    margin-top: -18px;
+    width: 995px;
+    height: 150px;
+    background: green;
+}
